@@ -76,6 +76,29 @@ works.
 (I remember this when i was working with Angular JS)
 ```
 
+**Terminologies**
+
+```
+(a) Inference-Typescript can know that something is a number
+    thus  if you assign something else it is going to tell you
+
+```
+
+**Complting Typescript**
+
+```
+(a)tsc index
+
+(b)tsc --watch index
+
+(c)Typescript compiles to ES5 by default but can be changed to compile to ES6 in the typescript configuarion file.
+
+(d)Creating a configuration file
+   tsc --init
+
+
+```
+
 **Notes By**
 
 ```
